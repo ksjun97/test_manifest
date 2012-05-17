@@ -3,8 +3,8 @@
   <remote  name="ksjeon" fetch="git@github.com:ksjun97/" />
   <default revision="master" remote="ksjeon" sync-j="4" />
 
-  <project path="api/a"                 name="api/a"/>
-  <project path="api/b"                 name="api/b"/>
-  <project path="api/c"                 name="api/c"/>
+  <project path="a"                 name="a"/>
+  <project path="b"                 name="b"/>
+  <project path="c"                 name="c"/>
 
 </manifest>
