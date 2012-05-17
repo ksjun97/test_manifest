@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="ksjun97" fetch="https://ksjun97@github.com/ksjun97/" />
+  <remote  name="ksjun97" fetch=".." review="git@github.com:ksjun97/" />
   <default revision="master" remote="ksjun97" sync-j="4" />
 
   <project path="a"                 name="a"/>
