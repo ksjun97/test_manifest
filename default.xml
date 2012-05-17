@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="ksjeon" fetch="git@github.com:ksjun97/" />
+  <default revision="master" remote="ksjeon" sync-j="4" />
+
+  <project path="api/a"                 name="api/a"/>
+  <project path="api/b"                 name="api/b"/>
+  <project path="api/c"                 name="api/c"/>
+
+</manifest>
